@@ -1,0 +1,26 @@
+{
+  "name": "pumpfun_sniper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
+  "author": "btcoin23",
+  "license": "ISC",
+  "dependencies": {
+    "@bloxroute/solana-trader-client-ts": "^2.2.0",
+    "@solana/spl-token": "^0.3.9",
+    "@solana/web3.js": "^1.87.6",
+    "axios": "^1.7.7",
+    "bn.js": "^5.2.1",
+    "bs58": "^5.0.0",
+    "dotenv": "^16.4.4",
+    "jito-ts": "^4.1.1",
+    "rpc-websockets": "7.10.0",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/bn.js": "^5.1.5"
+  }
+}
