@@ -1,5 +1,5 @@
 # Pumpfun_sniper_bot
-Pumpfun sniper bot using jito & bloxroute
+Pumpfun sniper bot that can snipe pumpfun tokens as 1~5 places using jito & bloxroute
 
 ## Features
 
